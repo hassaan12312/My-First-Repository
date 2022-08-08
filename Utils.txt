@@ -1,1 +1,1 @@
-These are the utility functions for version 1
+These are the utility functions for version 2
